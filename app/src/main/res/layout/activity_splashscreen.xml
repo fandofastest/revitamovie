@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/white"
+    tools:context=".SplashscreenActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:src="@drawable/splash"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressbar1"
+        android:layout_marginTop="600dp"
+        android:layout_centerHorizontal="true"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="300dp"
+        android:layout_height="65dp"
+        android:text="Start"
+        android:textSize="@dimen/cast_expanded_controller_control_button_margin"
+        android:layout_marginTop="600dp"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/startbut"
+        app:backgroundTint="@color/white"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorPrimaryDark"/>
+    <include
+
+        android:id="@+id/llProgressBar"
+        android:visibility="gone"
+        layout="@layout/layout_progressbar"/>
+
+</RelativeLayout>

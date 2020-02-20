@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab9611bb268f5cfffab3b0d9f1054b9a/jetified-android-youtubeExtractor-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab9611bb268f5cfffab3b0d9f1054b9a/jetified-android-youtubeExtractor-master-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/549d29618372ffe17f595e253654219ebea8fbf/android-youtubeExtractor-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076497914773",
+    "firebase_url": "https://strange-theme-267608.firebaseio.com",
+    "project_id": "strange-theme-267608",
+    "storage_bucket": "strange-theme-267608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497914773:android:11f162292641c84a1ff49c",
+        "android_client_info": {
+          "package_name": "com.revita.hdmovies2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076497914773-lu4on2vk2krh7pct5jrko6p9uf0tiddb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBciA3ewseD8a_kgrBUVDlR_CTDdm4-vE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076497914773-lu4on2vk2krh7pct5jrko6p9uf0tiddb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
